@@ -1,0 +1,19 @@
+@font-face {
+    font-family: "Lazer84";
+    src: url("fonts/Lazer84.ttf");
+    src: 
+    url("css/fonts/Lazer84.woff") format("woff"),
+    url("css/fonts/Lazer84.otf") format("opentype"),
+    url("css/fonts/Lazer84.svg#filename") format("svg");
+    }
+
+body{
+    background: red;
+}
+
+h1 {
+    font-family: 'Lazer84';
+    font-weight:normal;
+    font-style:normal;
+    font-size: 80px;
+}
